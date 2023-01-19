@@ -1,0 +1,55 @@
+Abhishek Purohit 
+
+Recording 
+
+1st Lecture BAsic Call Back Function and arrow function information 
+https://us02web.zoom.us/rec/share/Et0AongnYD9FxEkLFvx6FYone18DTTkrwUAQpXPVsc-Aa7OY8uVkxeCXxO-3JN7n.qN7QTQ0lXEsFJl6d
+Passcode: Wpt@1234
+
+2nd lecture Solution for callback hell or introduction to promise and intro to ajax
+
+https://us02web.zoom.us/rec/share/8AGc1p_Bt-Ec8IqgdQcdeJv2pISnm8yi4Pp5-7jG5VNhd9FO20A1U5H5OHkM2tg3.hl6nuFVPsywJU7KD
+Passcode: Wpt@1234
+
+done......
+
+3rd Ajax And express.js
+
+https://us02web.zoom.us/rec/share/z6fS_C2_kCwKNBpiULDZbn99v832nMSmXzUS8BkJ0JW-EWyHYyVmfsUWUWISsxa8.O_OyOm9GaUDcmR5f
+Passcode: Wpt@1234
+
+
+4th express/ server and dynamically loading the data. news app
+https://us02web.zoom.us/rec/share/omvPeV11NlylgsTLFZO-U971Vvmd5JMsdiKb1EbEuLxpXj69wuIxiUaqBfBnnS2T.cg_s4ugdhC8nZbbW
+Passcode: Wpt@1234
+
+
+5th Node js / url handling / server  / Thunder client 
+https://us02web.zoom.us/rec/share/mwdBsqYcJD2BCuNTsm5rCqgfl3mgSF4HR-eGiQxSnamJs_nsUQPm_LJZyrlWIr41.5WHwB2Kx9tk5mECa
+Passcode: Wpt@1234
+
+6th Routing / Component class and function 
+https://us02web.zoom.us/rec/share/V0Mke5kTW0Q63ATarcpDV9-Nu2h2RzYuua6twGUzUFKzMEpciALNZrpkOz2py9Uw.2LY5qY6iFNr4OncS
+Passcode: Wpt#1234
+
+7th day props and hooks
+https://us02web.zoom.us/rec/share/RayHdyzISJPL4_LKoEJ8x5doklEsEFPX-gwoNt5pLVsAy1yVjn3gKBq0DaijVlCP.WX1mUwIHsUV26JJS
+Passcode: Wpt@1234
+
+8th class cycle of class component imp
+https://us02web.zoom.us/rec/share/USo1Ck9iD-Z7HxLr0OMGqHbvI9m4sK9ps8ODJF9-5BDFvxKPmBjnToLIOIsUIa2v.x7lNX2WEqjmTTieP
+Passcode: Wpt#1234
+
+9th day News App class component in function component useState(),useEffect()
+https://us02web.zoom.us/rec/share/xx0xNC-4pV3kXFIdXDqc9psLWcO69ONa8wSt3WV9pcoEiw4b9jrBvBkFjr3L6tjc.hmBguQDZlyG4pu-R
+Passcode: Wpt#1234
+
+10th day Student app 
+https://us02web.zoom.us/rec/share/V6xCf8PTsSBgJgxbzLEfLHkr6bryh0mIhHPrI7KxuVAj8iDrj71Ti5a84Ws70R9B.HhSc-1APTO7JALq4
+Passcode: Wpt##123
+
+11th day Redux and globle data to access by every component
+https://us02web.zoom.us/rec/share/fbFndCqxS6ogun_LJasQsZbs4JWQpm_q6-yOmuKIwuIs-AlIhGRK7JP7Rc6hs6rr.X7o32JukhrOwyRtv
+Passcode: Wpt@1234
+
+End of the Module 
